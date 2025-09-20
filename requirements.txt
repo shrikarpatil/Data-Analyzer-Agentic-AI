@@ -1,0 +1,8 @@
+langchain
+langgraph
+pandas
+matplotlib
+seaborn
+openpyxl       
+tabulate
+rich       

@@ -1,0 +1,10 @@
+CustomerID,Name,Age,Gender,Country,PurchaseAmount,PurchaseDate
+C001,Alice,28,Female,USA,120.5,12/15/2024
+C002,Bob,34,Male,Canada,75,12/18/2024
+C003,Charlie,45,Male,UK,210.2,1/2/2025
+C004,Diana,,Female,India,60,1/5/2025
+C005,Ethan,52,Male,Australia,340.75,1/7/2025
+C006,Fatima,26,Female,UAE,95.4,1/9/2025
+C007,George,39,Male,Germany,180,1/11/2025
+C008,Helen,33,Female,France,150.25,1/12/2025
+C008,Helen,33,Female,France,150.25,1/12/2025
